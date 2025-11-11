@@ -1,0 +1,11 @@
+name: MToolskins
+version: '1.0-SNAPSHOT'
+main: me.mutlz.mToolskins.MToolskins
+api-version: '1.21'
+authors: [ Mutlz ]
+description: Dornia Server Core By Mutlz ;)
+website: me.mutlz
+commands:
+  toolskins:
+    description: ToolSkins menüsünü açar.
+    usage: /toolskins
