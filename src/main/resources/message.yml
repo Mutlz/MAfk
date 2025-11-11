@@ -1,8 +1,0 @@
-errors:
-  no-item: "&cElinde bir eşya olmalı!"
-  skin-not-found: "&cBu eşya için skin bulunamadı!"
-  no-permission: "&cBu skini kullanma iznin yok!"
-  unexpected: "&cBir hata oluştu, lütfen tekrar dene."
-success:
-  skin-applied: "&aSeçtiğin skin başarıyla uygulandı!"
-
